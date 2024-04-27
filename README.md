@@ -1,4 +1,4 @@
-# MVP--Gest-o-gil-de-Projetos-e-Produto-
+# MVP--Gestao-Agil-de-Projetos-e-Produto-
 
 Esse diretório apresenta  a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
 
